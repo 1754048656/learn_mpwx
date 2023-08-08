@@ -1,0 +1,12 @@
+wechat:
+  app-id: xxx
+  app-secret: xxx
+  token: 123456
+server:
+  port: 82
+
+spring:
+  redis:
+    host: 127.0.0.1
+    port: 6379
+    timeout: 1296000
